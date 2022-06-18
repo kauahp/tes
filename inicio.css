@@ -19,12 +19,8 @@
         body{
 
             background: linear-gradient(to right,white,rgb(165, 165, 255));
-            margin:auto;
+            margin:0px;
             padding:0px ;
-           overflow-x:scroll;
-           overflow-y: scroll;
-           width:200000px ;
-            
            
             
             
@@ -207,6 +203,9 @@
                                             right:40px ;
                                             
                                         }
+
+                                       
+ 
 
 
     
