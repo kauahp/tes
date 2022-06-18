@@ -15,7 +15,19 @@
 
             background: linear-gradient(to right,white,rgb(165, 165, 255));
             margin:0px;
+            padding:0px ;
+            max-width:1450px;
+            min-width:300px;
+            overflow-x:scroll;
+           
             
+           
+            
+            
+        }
+
+        img{
+            max-width:100% ;
         }
 
  
@@ -28,7 +40,7 @@
                 .barra{
 
                 background-color: var(--corprincipal);
-                width:100%;
+                width:auto;
                 height:100px;
             }
         
