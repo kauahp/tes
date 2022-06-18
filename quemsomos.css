@@ -1,0 +1,151 @@
+:root{
+
+    --corprincipal:#bbbbff;
+    --corsecundaria:#5b5beb;
+    --branco:#ffffff;
+    --preto:#000000;
+    --sombra:#6d6b6b;
+
+    --bastão:'Bebas Neue',cursive;
+}
+
+
+
+body{background-color: var(--branco);
+    margin: 0px;
+    }
+    
+    a{text-decoration:none;
+    color: var(--preto);}
+
+    b1{color:var(--branco);}
+
+    
+    
+    .barra{
+        background-color:var(--corprincipal);
+        width:100%;
+        height:250px;
+        
+}
+
+.quemsomosmaior{
+    font-family: 'Bebas Neue', cursive;
+    font-size:25px;
+    position: absolute;
+    top:100px;
+    right:670px;
+    color:var(--preto);
+    text-align: center;
+    text-shadow:var(--sombra);
+    
+}
+
+
+     a:hover{color: var(--branco);}
+    .contato:hover{transform: scale(1.2);}
+    .areadeatuacao:hover{transform: scale(1.2);}
+    .quemsomos:hover{transform: scale(1.2);}
+    
+    .logo{
+        position: absolute;
+        top:1px ;
+        
+    right:1300px ;}
+    
+    .contato{
+        font-size:13px;
+        position: absolute;
+        top:5px;
+        right:1100px;
+        background-color:var(--corprincipal);
+        width:100px;
+        text-align: center;
+        border-radius:100px;
+        }
+    
+    .quemsomos{
+        font-size:13px;
+        position: absolute;
+        top:5px;
+        right:850px;
+        background-color:var(--corprincipal);
+        width:200px;
+        text-align: center;
+        border-radius:100px;
+        }
+    
+    .areadeatuacao{
+        font-size:13px;
+        position: absolute;
+        top:5px;
+        right:600px;
+        background-color:var(--corprincipal);
+        width:200px; 
+        text-align: center;} 
+    
+
+
+.circulowhatsapp{
+
+width:60px;
+height:60px;
+border-radius:50%;
+background-color:var(--corsecundaria);
+position: absolute;
+top:-40px;
+right:150px ;
+margin:50px;
+}
+
+.fotowhatsapp{
+
+position: absolute;
+top:23px;
+right:214px ;
+
+
+}
+
+.circuloinstagram{
+
+    width:60px;
+    height:60px;
+    border-radius:50%;
+    background-color:var(--corsecundaria);
+    position: absolute;
+    top:-40px;
+    right:80px ;
+    margin:50px;
+
+
+}
+
+.fotoinstagram{
+    position: absolute;
+    top:25px;
+    right:145px ;}
+
+    .circulofacebook{
+
+        width:60px;
+        height:60px;
+        border-radius:50%;
+        background-color:var(--corsecundaria);
+        position: absolute;
+        top:-40px;
+        right:10px ;
+        margin:50px;
+    }
+
+        .fotofacebook{
+
+            position: absolute;
+            top:25px;
+            right:75px ;
+        }
+
+
+
+
+    

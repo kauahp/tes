@@ -1,0 +1,9 @@
+melhorar a identação do codigo
+
+escrever alguns dos serviços na pagina inicial
+
+fazer os botoes facebook em outras paginas
+
+arrumar as pastas
+
+
