@@ -120,8 +120,8 @@ a:hover{color:var(--branco)}
 
                             .circulowhatsapp{
 
-                            width:60px;
-                            height:60px;
+                            width:30px;
+                            height:30px;
                             border-radius:50%;
                             background-color:var(--corsecundaria);
                             position: absolute;
@@ -142,8 +142,8 @@ a:hover{color:var(--branco)}
 
                                 .circuloinstagram{
 
-                                    width:60px;
-                                    height:60px;
+                                    width:30px;
+                                    height:30px;
                                     border-radius:50%;
                                     background-color:var(--corsecundaria);
                                     position: absolute;
@@ -165,11 +165,9 @@ a:hover{color:var(--branco)}
                                         .circulofacebook{
 
                                             
-                                            min-width:30px;
-                                            min-height:30px ;
-                                            width: 60px;
-                                            height: 30px;
-                                            height:60px;
+                                            
+                                            width: 30px;
+                                            height: 30px;  
                                             border-radius:50%;
                                             background-color:var(--corsecundaria);
                                             position: absolute;
