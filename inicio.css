@@ -22,6 +22,7 @@
             margin:0px;
             padding:0px;
             max-width: max-content;
+            
            
            
             
@@ -29,7 +30,7 @@
         }
 
         img{
-            max-width:100% ;
+            max-width:100%;
         }
 
  
@@ -46,10 +47,7 @@
                 height:100px;
             }
         
-    a:hover{color:var(--branco)}
-    .contato:hover{transform: scale(1.2);}
-    .areadeatuacao:hover{transform: scale(1.2);}
-    .quemsomos:hover{transform: scale(1.2);}
+   
 
     .logo{
 
@@ -243,7 +241,7 @@
                                             width: auto;
                                         }
 
-@media(max-width:450px){
+@media(max-width:420px){
 
     .imageminicial{
         height: 150px;
@@ -297,8 +295,80 @@
 
     }
 
-
 } 
+
+
+
+@media(max-width:393px){
+
+    .contato{position: absolute;
+    right:300px;}
+    
+    .quemsomos{
+        position: absolute;
+        right:170px ;
+    }
+    
+    .areadeatuacao{
+        position: absolute;
+        right: 20px;
+    }
+    
+    }
+
+
+
+@media(max-width:390px){
+
+    .contato{position: absolute;
+    right:300px;}
+    
+    .quemsomos{
+        position: absolute;
+        right:170px ;
+    }
+    
+    .areadeatuacao{
+        position: absolute;
+        right: 20px;
+    }
+    
+    }
+
+
+@media(max-width:375px){
+
+.contato{position: absolute;
+right: 300px;}
+
+.quemsomos{
+    position: absolute;
+    right:170px ;
+}
+
+.areadeatuacao{
+    position: absolute;
+    right: 20px;
+}
+
+}
+
+@media(max-width:360px){
+
+    .contato{position: absolute;
+    right:290px;}
+    
+    .quemsomos{
+        position: absolute;
+        right:160px ;
+    }
+    
+    .areadeatuacao{
+        position: absolute;
+        right:10px;
+    }
+    
+    }
 
                                             
 
