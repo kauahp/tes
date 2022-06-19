@@ -91,13 +91,14 @@ a:hover{color:var(--branco)}
                 .imageminicial{
 
                     height:200px;
-                    overflow:;
+                    overflow:hidden;
                     background-color:var(--corprincipal)
                 } 
 
                 .imageminicial img{
 
                     max-width: 100%;
+                    height:200px;
                 }    
 
 
@@ -106,7 +107,7 @@ a:hover{color:var(--branco)}
                     .nossosservicos{
 
                         position: absolute;
-                        top:100px;
+                        top:130px;
                         right:50px;
                         color: white;
                         font-family: 'Bebas Neue', cursive;
