@@ -256,7 +256,48 @@
     .nossosservicos{
         position:absolute;
         right:60px;
-        top:100px;}
+        top:110px;}
+
+    .circulowhatsapp{
+        width:30px;
+        height: 30px;
+    }
+
+    .circulofacebook{
+
+        width:30px;
+        height: 30px;
+    }
+
+    .circuloinstagram{
+        width: 30px;
+        height: 30px;
+    }
+
+    .contato{
+        position: absolute;
+        right:340px;
+        font-size:10px;
+        top:50px ;
+    }
+
+    .quemsomos{
+        position: absolute;
+        right:200px;
+        font-size:10px;
+        top:50px ;
+
+    }
+
+    .areadeatuacao{
+        position: absolute;
+        right:40px;
+        font-size:10px;
+        top:50px;
+
+    }
+
+
 } 
 
                                             
