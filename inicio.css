@@ -20,8 +20,9 @@
 
             background: linear-gradient(to right,white,rgb(165, 165, 255));
             margin:0px;
-            padding:0px ;
+            padding:0px;
             max-width: max-content;
+           
            
             
             
@@ -240,17 +241,23 @@
                                             right:100px ;
                                             border-radius: 100px;
                                             width: auto;
-                                            
+                                        }
 
-                                            }
+@media(max-width:420px){
 
-                                            @media(max-width:420px){
+    .imageminicial{
+        height: 150px;
+    }
 
-                                                .nossosservicos{
-                                                    position:absolute;
-                                                    right:60px;
-                                                    top:100px;}
-                                            } 
+    .imageminicial img{
+        height:150px ;
+    }
+
+    .nossosservicos{
+        position:absolute;
+        right:60px;
+        top:100px;}
+} 
 
                                             
 
