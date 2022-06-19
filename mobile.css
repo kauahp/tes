@@ -241,6 +241,11 @@ a:hover{color:var(--branco)}
 
                                         }
 
+@media(max-width:420px){
+
+    .nossosservicos{position:absolute;right:100px;}
+}                                        
+
                                         
 
                                    

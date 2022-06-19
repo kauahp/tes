@@ -86,6 +86,8 @@
                     top:5px;
                     right:650px;
                 }
+
+               
                      
 
                     .imageminicial{
@@ -241,6 +243,14 @@
                                             
 
                                             }
+
+                                            @media(max-width:420px){
+
+                                                .nossosservicos{
+                                                    position:absolute;
+                                                    right:60px;
+                                                    top:100px;}
+                                            } 
 
                                             
 
