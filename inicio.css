@@ -163,7 +163,11 @@
 
                                             .circulofacebook{
 
-                                                width:60px;
+                                                
+                                                min-width:30px;
+                                                min-height:30px ;
+                                                width: 60px;
+                                                height: 30px;
                                                 height:60px;
                                                 border-radius:50%;
                                                 background-color:var(--corsecundaria);
@@ -202,6 +206,8 @@
                                             position:absolute;
                                             top:425px;
                                             right:100px ;
+                                            border-radius: 100px;
+                                            width: auto;
                                             
                                         }
 
@@ -221,18 +227,22 @@
                                                 top:885px;
                                                 color:var(--texto);
                                                 font-size:18px;
-                                                right:570px ;
+                                                right:620px ;
                                                 font-family: 'Josefin Sans', sans-serif;
                                             }
 
                                             .imagemautomovel{
 
                                                 position:absolute;
-                                            top:425px;
-                                            right:40px ;
+                                            top:800px;
+                                            right:100px ;
+                                            border-radius: 100px;
+                                            width: auto;
+                                            
+
                                             }
 
-                                        }
+                                            
 
                                        
  
