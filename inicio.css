@@ -289,6 +289,7 @@
     .textolimpeza{
         right:10px;
         top:400px;
+        text-align: center;
     }
 
     .tituloautomovel{
@@ -300,6 +301,7 @@
     .textoautomovel{
         right:10px;
         top:800px ;
+        text-align: center;
     }
 
     .fotofacebook{
@@ -338,7 +340,7 @@
 
     .circulowhatsapp{
         width: 50px;
-        height: 50px;
+        height:50px;
         top: -5px;
     }
 
@@ -366,14 +368,14 @@
         position: absolute;
         right:340px;
         font-size:10px;
-        top:60px ;
+        
     }
 
     .quemsomos{
         position: absolute;
         right:200px;
         font-size:10px;
-        top:60px ;
+        
 
     }
 
@@ -381,7 +383,7 @@
         position: absolute;
         right:40px;
         font-size:10px;
-        top:60px;}
+        }
 
     .titulolimpeza{
         right:13px;
