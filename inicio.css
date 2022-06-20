@@ -66,15 +66,7 @@
         right:1300px ;
     }
     
-        .contato{
-
-            font-size:17px;
-            position: absolute;
-            top:5px;
-            right:1100px;
-            color:white;
-           
-        }
+     
         
         
     
@@ -342,12 +334,7 @@
 
     
 
-    .contato{
-        
-        right:350px;
-        font-size:13px;
-        top:-2px ;
-    }
+   
 
     .quemsomos{
         position: absolute;
@@ -434,6 +421,11 @@
 
     .galeria{
         right: 20px;
+        width: 400px;
+        height: 400px;
+    }
+
+    .galeria img{
         width: 400px;
         height: 400px;
     }
