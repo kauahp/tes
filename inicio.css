@@ -461,6 +461,12 @@
         top:800px ;
     }
 
+    .galeria{
+        width:350px ;
+        height:350px ;
+        right: 30px;
+    }
+
    
 
 } 
@@ -563,6 +569,17 @@ right: 300px;}
             position: absolute;
             right: 10px;
             font-size: 9px;
+        }
+
+        .antesedepois{
+            right: 60px;
+            font-size:18px ;
+        }
+    
+        .galeria{
+            right: 20px;
+            width: 300px;
+            height: 300px;
         }
         
         }
