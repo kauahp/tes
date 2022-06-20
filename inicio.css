@@ -235,15 +235,12 @@
                                                 font-family: 'Josefin Sans', sans-serif;
                                             }
 
-                                            .imagemautomovel{
+                                            
 
-                                                position:absolute;
-                                            top:800px;
-                                            right:100px ;
-                                            border-radius: 100px;
-                                            width: auto;
-                                        }
+                                    
 
+
+                                        
 @media(max-width:420px){
 
     
@@ -281,8 +278,17 @@
         position: absolute;
         right:40px;
         font-size:10px;
-        top:60px;
+        top:60px;}
 
+    .titulolimpeza{
+        right:13px;
+        font-size:11px ;
+        top:300px;
+    }   
+    
+    .textolimpeza{
+        right:10px;
+        top:350px ;
     }
 
 } 
