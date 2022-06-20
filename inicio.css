@@ -2,11 +2,13 @@
 
         --corprincipal:#bbbbff;
         --corsecundaria:#5b5beb;
+        --corterceraria:#3b3bb4;
         --branco:#ffffff;
         --preto:#000000;
         --texto:#353131;
 
         --bastão:'Bebas Neue',cursive;
+        --secundaria:'Kdam Thmor Pro', sans-serif;
     }
 
     
@@ -196,6 +198,7 @@
                                                     color: var(--corsecundaria);
                                                     font-size: 20px;
                                                     font-family: 'Josefin Sans', sans-serif;
+                                                    text-shadow: 10px 10px 10px rgb(136, 136, 136);
                                                 }
 
                                             .textolimpeza{
@@ -218,7 +221,7 @@
 
                                         .tituloautomovel{
                                             position: absolute;
-                                                    top:800px;
+                                                    top:700px;
                                                     right:710px;
                                                     color: var(--corsecundaria);
                                                     font-size: 20px;
@@ -229,12 +232,24 @@
                                         .textoautomovel{
 
                                             position: absolute;
-                                                top:885px;
+                                                top:785px;
                                                 color:var(--texto);
                                                 font-size:18px;
                                                 right:620px ;
                                                 font-family: 'Josefin Sans', sans-serif;
                                             }
+
+                                    .antesedepois{
+                                        position: absolute;
+                                        top: 1000px;
+                                        font-family: var(--secundaria);
+                                        color: var(--corterceraria);
+                                        right: 600px;
+                                        font-size: 30px;
+                                        
+                                    }
+
+                                          
 
                                             
 
