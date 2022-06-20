@@ -302,7 +302,7 @@
 
     .fotofacebook{
         right: 73px;
-        top: 30px;
+        top: 24px;
         height: 25px;
         width: 25px;
     }
@@ -310,11 +310,16 @@
     .fotoinstagram{
         
         height: 25px;
-        width: 25px;}
+        width: 25px;
+        right: 142px;
+        top: 24px;
+    }
 
     .fotowhatsapp{
         width: 25px;
         height: 25px;
+        right: 211px;
+        top: 23px;
     }
 
     .circulofacebook{
