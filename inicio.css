@@ -261,24 +261,24 @@
 
     .contato{
         position: absolute;
-        right:340px;
+        right:350px;
         font-size:9px;
-        top:60px ;
+        top:-2px ;
     }
 
     .quemsomos{
         position: absolute;
-        right:200px;
+        right:210px;
         font-size:9px;
-        top:60px;
+        top:-2px;
 
     }
 
     .areadeatuacao{
         position: absolute;
-        right:40px;
+        right:50px;
         font-size:9px;
-        top:60px;}
+        top:-2px;}
 
     .titulolimpeza{
         right:13px;
@@ -288,7 +288,7 @@
     
     .textolimpeza{
         right:10px;
-        top:400px ;
+        top:400px;
     }
 
     .tituloautomovel{
@@ -304,7 +304,7 @@
 
     .fotofacebook{
         right: 73px;
-        top: 24px;
+        top:58px;
         height: 25px;
         width: 25px;
     }
@@ -314,29 +314,32 @@
         height: 25px;
         width: 25px;
         right: 142px;
-        top: 24px;
+        top: 58px;
     }
 
     .fotowhatsapp{
         width: 25px;
         height: 25px;
         right: 211px;
-        top: 23px;
+        top: 57px;
     }
 
     .circulofacebook{
         width: 50px;
         height: 50px;
+        top:-5px;
     }
 
     .circuloinstagram{
         width: 50px;
         height: 50px;
+        top: -5px;
     }
 
     .circulowhatsapp{
         width: 50px;
         height: 50px;
+        top: -5px;
     }
 
 } 
