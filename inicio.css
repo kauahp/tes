@@ -40,6 +40,8 @@
             color:var(--preto)
         }
 
+        a:hover{color: white;}
+
                 .barra{
 
                 background-color: var(--corprincipal);
