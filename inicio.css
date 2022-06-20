@@ -24,6 +24,11 @@
             margin:0px;
             padding:0px;
             height:2000px;
+            overflow-x:visible;
+            overflow-x: scroll;
+            text-overflow: ellipsis;
+            
+           
             
             
            
@@ -63,7 +68,7 @@
     
         .contato{
 
-            font-size:13px;
+            font-size:17px;
             position: absolute;
             top:5px;
             right:1100px;
@@ -75,7 +80,7 @@
     
             .quemsomos{
 
-                font-size:13px;
+                font-size:17px;
                 position: absolute;
                 top:5px;
                 right:900px;
@@ -87,7 +92,7 @@
     
                 .areadeatuacao{
 
-                    font-size:13px;
+                    font-size:17px;
                     position: absolute;
                     top:5px;
                     right:650px;
@@ -283,7 +288,7 @@
 
                                     
 
-@media(max-width:450px){
+@media(max-width:500px){
 
 
     .imageminicial{
@@ -305,14 +310,14 @@
     .contato{
         position: absolute;
         right:350px;
-        font-size:9px;
+        font-size:13px;
         top:-2px ;
     }
 
     .quemsomos{
         position: absolute;
         right:210px;
-        font-size:9px;
+        font-size:13px;
         top:-2px;
 
     }
@@ -320,7 +325,7 @@
     .areadeatuacao{
         position: absolute;
         right:50px;
-        font-size:9px;
+        font-size:13px;
         top:-2px;}
 
     .titulolimpeza{
@@ -464,7 +469,7 @@
     .galeria{
         width:350px ;
         height:350px ;
-        right: 30px;
+        
     }
 
    
@@ -553,7 +558,7 @@ right: 300px;}
     
     }
 
-    @media(max-width:340px){
+    @media(max-width:360px){
 
         .contato{position: absolute;
         right:270px;
@@ -584,7 +589,26 @@ right: 300px;}
         
         }
 
-        @media(max-width:320px){
+        @media(max-width:333px){
+
+            .contato{position: absolute;
+            right:270px;
+            font-size: 9px;}
+            
+            .quemsomos{
+                position: absolute;
+                right:150px ;
+                font-size: 9px;
+            }
+            
+            .areadeatuacao{
+                position: absolute;
+                right: 10px;
+                font-size: 9px;
+            }
+        }
+
+        @media(max-width:250px){
 
             .contato{position: absolute;
             right:270px;
