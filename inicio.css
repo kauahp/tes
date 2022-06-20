@@ -253,21 +253,21 @@
         position:absolute;
         right:60px;
         top:110px;
-    font-size: 8px;}
+    }
 
     
 
     .contato{
         position: absolute;
         right:340px;
-        font-size:8px;
+        font-size:9px;
         top:60px ;
     }
 
     .quemsomos{
         position: absolute;
         right:200px;
-        font-size:8px;
+        font-size:9px;
         top:60px;
 
     }
@@ -275,7 +275,7 @@
     .areadeatuacao{
         position: absolute;
         right:40px;
-        font-size:10px;
+        font-size:9px;
         top:60px;}
 
     .titulolimpeza{
