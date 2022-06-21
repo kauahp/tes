@@ -15,7 +15,7 @@
    
 
 *{
-    margin: 0;
+   margin: 0;
     padding: 0;
    
 }
@@ -27,6 +27,10 @@
             background: linear-gradient(to right,white,rgb(165, 165, 255));
             
             height:max-content;
+            width:100%;
+            
+            max-width: 2000px;
+            min-width: 250px;
            
            
             
@@ -77,6 +81,8 @@
                 top:5px;
                 right:900px;
                 color: var(--branco);
+                max-width:2000px;
+                min-width: ;
                 
             }
                 
@@ -259,6 +265,16 @@
                                     
                                     
                                     
+                                   }
+
+                                   header{
+                                    max-width: 100%;
+                                    min-width:10%;
+                                    
+                                   }
+
+                                   main{
+                                    max-width: 100%;
                                    }
 
                                    .galeria .fotos{
