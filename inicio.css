@@ -190,10 +190,10 @@ font-family: 'Josefin Sans', sans-serif;
 
 
 
-.limpezaautomovel h1{
+.limpezatapetes h1{
 position: absolute;
 top:700px;
-right:710px;
+right:800px;
 color: var(--corsecundaria);
 font-size: 40px;
 font-family: 'Josefin Sans', sans-serif;
@@ -201,13 +201,13 @@ text-shadow: 10px 10px 10px rgb(136, 136, 136);
 
 }
 
-.limpezaautomovel p{
+.limpezatapetes p{
 
 position: absolute;
 top:785px;
 color:var(--texto);
 font-size:18px;
-right:620px ;
+right:560px ;
 font-family: 'Josefin Sans', sans-serif;
 }
 
