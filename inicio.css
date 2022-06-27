@@ -98,12 +98,12 @@ max-width: 100%;
 .nossosservicos h1{
 
 position: absolute;
-top:165px;
-right:580px;
+top:140px;
+right:550px;
 color: white;
 font-family: 'Bebas Neue', cursive;
 letter-spacing:3px;
-font-size:45px ;
+font-size:55px ;
 text-shadow: 5px 5px 5px var(--preto)
 }
 
