@@ -176,9 +176,9 @@ right:75px ;
 }
 
 .limpezasofa h1{
-position: absolute;
-top:450px;
-right:680px;
+position: relative;
+top:150px;
+text-align: center;
 color: var(--corsecundaria);
 font-size: 40px;
 font-family: 'Josefin Sans', sans-serif;
@@ -186,20 +186,20 @@ text-shadow: 10px 10px 10px rgb(136, 136, 136);
 }
 
 .limpezasofa p{
-position: absolute;
-top:525px;
+position: relative;
+top:200px;
+text-align: center;
 color:var(--texto);
 font-size:18px;
-right:570px ;
 font-family: 'Josefin Sans', sans-serif;
 }
 
 
 
 .limpezatapetes h1{
-position: absolute;
-top:700px;
-right:800px;
+position: relative;
+top:300px;
+text-align: center;
 color: var(--corsecundaria);
 font-size: 40px;
 font-family: 'Josefin Sans', sans-serif;
@@ -209,20 +209,20 @@ text-shadow: 10px 10px 10px rgb(136, 136, 136);
 
 .limpezatapetes p{
 
-position: absolute;
-top:785px;
+position: relative;
+top: 350px;
+text-align: center;
 color:var(--texto);
 font-size:18px;
-right:560px ;
 font-family: 'Josefin Sans', sans-serif;
 }
 
 .antesedepois{
-position: absolute;
-top: 1000px;
+position: relative;
+top: 450px;
+text-align: center;
 font-family: var(--secundaria);
 color: var(--corterceraria);
-right: 540px;
 font-size: 30px;
 
 }
