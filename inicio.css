@@ -195,7 +195,7 @@ position: absolute;
 top:700px;
 right:710px;
 color: var(--corsecundaria);
-font-size: 10px;
+font-size: 40px;
 font-family: 'Josefin Sans', sans-serif;
 text-shadow: 10px 10px 10px rgb(136, 136, 136);
 
@@ -273,7 +273,7 @@ position: absolute;
 left:50px;
 top: 50px;
 max-width: 100%;
-min-width: 10%;
+
 
 
 }
