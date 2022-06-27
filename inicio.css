@@ -74,14 +74,14 @@ color: var(--preto);
 
 
 
-.imageminicial{
+.nossosservicos{
 
 height: 200px;
 overflow:hidden;
 background-color:var(--corprincipal)
 } 
 
-.imageminicial img{
+.nossosservicos img{
 
 max-width: 100%;
 }    
@@ -89,15 +89,15 @@ max-width: 100%;
 
 
 
-.nossosservicos{
+.nossosservicos h1{
 
 position: absolute;
 top:165px;
-right:600px;
+right:580px;
 color: white;
 font-family: 'Bebas Neue', cursive;
 letter-spacing:3px;
-font-size:25px ;
+font-size:45px ;
 text-shadow: 5px 5px 5px var(--preto)
 }
 
@@ -169,17 +169,17 @@ top:25px;
 right:75px ;
 }
 
-.titulolimpeza{
+.limpezasofa h1{
 position: absolute;
 top:450px;
 right:680px;
 color: var(--corsecundaria);
-font-size: 20px;
+font-size: 40px;
 font-family: 'Josefin Sans', sans-serif;
 text-shadow: 10px 10px 10px rgb(136, 136, 136);
 }
 
-.textolimpeza{
+.limpezasofa p{
 position: absolute;
 top:525px;
 color:var(--texto);
@@ -188,27 +188,20 @@ right:570px ;
 font-family: 'Josefin Sans', sans-serif;
 }
 
-.imagemsofa{
-position:absolute;
-top:425px;
-right:100px ;
-border-radius: 100px;
-width: auto;
 
-}
 
-.tituloautomovel{
+.limpezaautomovel h1{
 position: absolute;
 top:700px;
 right:710px;
 color: var(--corsecundaria);
-font-size: 20px;
+font-size: 10px;
 font-family: 'Josefin Sans', sans-serif;
 text-shadow: 10px 10px 10px rgb(136, 136, 136);
 
 }
 
-.textoautomovel{
+.limpezaautomovel p{
 
 position: absolute;
 top:785px;
@@ -308,15 +301,15 @@ line-height: 50px;
 @media(max-width:500px){
 
 
-.imageminicial{
+.nossosservicos{
 height: 150px;
 }
 
-.imageminicial img{
+.nossosservicos img{
 height:150px ;
 }
 
-.nossosservicos{
+.nossosservicos h1{
 position:absolute;
 right:60px;
 top:140px;
