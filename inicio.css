@@ -272,6 +272,8 @@ height: 100px;
 position: absolute;
 left:50px;
 top: 50px;
+max-width: 100%;
+min-width: 10%;
 
 
 }
