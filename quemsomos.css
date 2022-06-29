@@ -11,8 +11,11 @@
 
 
 
-body{background-color: var(--branco);
+body{
+    background-color: var(--branco);
     margin: 0px;
+    height: 1200px;
+
     }
     
     a{text-decoration:none;

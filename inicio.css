@@ -235,6 +235,12 @@ font-family: 'Josefin Sans', sans-serif;
 padding: 15px;
 }
 
+.depoimentos{
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
+    
+}
+
 .depoimentos h1{
 position: relative;
 top: 450px;
@@ -251,17 +257,12 @@ font-size:45px;}
     border-radius:10px;
     width: 300px;
     right:-40px ;
-    font-family: 'Lobster', cursive;
-    font-size: 20px;
-    
-
 }
 
 .depoimentos .juliana img{
     vertical-align: middle;
     position: relative;
     right:-20px;
-    
 }
 
 .galeria{
