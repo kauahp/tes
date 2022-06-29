@@ -25,6 +25,7 @@ width: 100%;
 
 
 
+
 }
 
 img{
@@ -238,7 +239,7 @@ padding: 15px;
 .depoimentos{
     font-family: 'Lobster', cursive;
     font-size: 20px;
-    
+   
 }
 
 .depoimentos h1{
@@ -247,7 +248,8 @@ top: 450px;
 text-align: center;
 font-family: var(--secundaria);
 color: var(--corterceraria);
-font-size:45px;}
+font-size:45px;
+}
 
 .depoimentos .juliana{
     position: relative;
@@ -259,11 +261,17 @@ font-size:45px;}
     right:-40px ;
 }
 
-.depoimentos .juliana img{
-    vertical-align: middle;
+.depoimentos .lucas{
     position: relative;
-    right:-20px;
+    top:270px ;
+    border: 5px solid var(--corterceraria);
+    padding: 5px;
+    border-radius:10px;
+    width: 300px;
+    right:-450px ;
 }
+
+
 
 .galeria{
 width:440px ;
