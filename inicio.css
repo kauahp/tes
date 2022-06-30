@@ -9,6 +9,7 @@
 
     --bastão:'Bebas Neue',cursive;
     --secundaria:'Kdam Thmor Pro', sans-serif;
+    --depoimentos:'Lobster', cursive;
 }
 
     *{
@@ -237,7 +238,7 @@ padding: 15px;
 }
 
 .depoimentos{
-    font-family: 'Lobster', cursive;
+    font-family:var(--depoimentos);
     font-size: 20px;
     
 }
@@ -326,11 +327,20 @@ font-size:45px;
     
 }
 
-.google .stars{
+.stars .stars{
     position: absolute;
     top: 1770px;
     right: 450px;
     max-width: 100%;
+}
+
+.antesedepois{
+    font-family: var(--secundaria);
+    color: var(--corterceraria);
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    bottom:-155px;
 }
 
 
@@ -341,8 +351,8 @@ height:440px;
 overflow: hidden;
 border: 5px var(--corsecundaria) solid;
 position: relative;
-top:280px;
-right:-450px;
+top:250px;
+right:-480px;
 }
 
 .galeria .fotos{
@@ -360,7 +370,7 @@ width:19.9% ;
 
 footer {
 position: absolute;
-bottom:-2400px;
+bottom:-2600px;
 background-color: var(--branco);
 color: #FFF;
 width: 100%;
@@ -390,11 +400,13 @@ background-color: rgb(165, 156, 156);
 position: absolute;
 width: 100%;
 height: 50px;
-bottom: -2400px;
+bottom: -2600px;
 text-align: center;
 line-height: 50px;
 
 }
+
+
 
 
 
