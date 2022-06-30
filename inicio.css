@@ -23,10 +23,6 @@
 body{
 background: linear-gradient(to right,white,rgb(120, 120, 253));
 width: 100%;
-
-
-
-
 }
 
 img{
@@ -57,12 +53,7 @@ right:1000px;
 color: var(--preto);
 font-family: var(--bastão);
 text-shadow: 5px 5px 5px var(--branco);
-
-
-
 }
-
-
 
 .areadeatuacao{
 
