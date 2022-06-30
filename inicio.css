@@ -239,7 +239,7 @@ padding: 15px;
 .depoimentos{
     font-family: 'Lobster', cursive;
     font-size: 20px;
-   
+    
 }
 
 .depoimentos h1{
@@ -259,16 +259,78 @@ font-size:45px;
     border-radius:10px;
     width: 300px;
     right:-40px ;
+    height: 220px;
 }
 
 .depoimentos .lucas{
     position: relative;
-    top:270px ;
+    top:265px ;
     border: 5px solid var(--corterceraria);
     padding: 5px;
     border-radius:10px;
     width: 300px;
-    right:-450px ;
+    right:-550px ;
+    height: 220px;
+}
+
+.depoimentos .aline{
+    position: relative;
+    top:30px ;
+    border: 5px solid var(--corterceraria);
+    padding: 5px;
+    border-radius:10px;
+    width: 300px;
+    left:1050px ;
+    height: 220px;
+}
+
+.depoimentos .marcia{
+    position: relative;
+    top:80px ;
+    border: 5px solid var(--corterceraria);
+    padding: 5px;
+    border-radius:10px;
+    width: 300px;
+    right:-40px ;
+    height: 220px;
+}
+
+.depoimentos .julianaalmeida{
+    position: relative;
+    top:-160px ;
+    border: 5px solid var(--corterceraria);
+    padding: 5px;
+    border-radius:10px;
+    width: 300px;
+    right:-550px ;
+    height: 220px;
+}
+
+.depoimentos .helcio{
+    position: relative;
+    top:-400px ;
+    border: 5px solid var(--corterceraria);
+    padding: 5px;
+    border-radius:10px;
+    width: 300px;
+    left:1050px ;
+    height: 220px;
+
+}
+
+.google .google{
+    position: absolute;
+    top: 1800px;
+    right: 450px;
+    max-width: 100%;
+    
+}
+
+.google .stars{
+    position: absolute;
+    top: 1770px;
+    right: 450px;
+    max-width: 100%;
 }
 
 
@@ -279,20 +341,9 @@ height:440px;
 overflow: hidden;
 border: 5px var(--corsecundaria) solid;
 position: relative;
-top:58000px;
-right:-420px;
-
-
-
-
-
-
-
+top:280px;
+right:-450px;
 }
-
-
-
-
 
 .galeria .fotos{
 width:500%;
@@ -305,15 +356,18 @@ animation-iteration-count: infinite;
 width:19.9% ;
 }
 
+
+
 footer {
 position: absolute;
-bottom:-1200px;
+bottom:-2400px;
 background-color: var(--branco);
 color: #FFF;
 width: 100%;
 height:300px;    
 text-align: center;
 line-height: 100px;
+
 }
 
 .logorodape img{
@@ -336,7 +390,7 @@ background-color: rgb(165, 156, 156);
 position: absolute;
 width: 100%;
 height: 50px;
-bottom: -1200px;
+bottom: -2400px;
 text-align: center;
 line-height: 50px;
 
