@@ -30,97 +30,130 @@ body{background-color: var(--branco);
 .areadeatuacaomaior{
     font-family: 'Bebas Neue', cursive;
     font-size:25px;
-    position: absolute;
-    top:100px;
-    right:650px;
+    position: relative;
+    top:-140px;
     color:var(--preto);
     text-align: center;
     text-shadow: 10px 10px 10px var(--sombra) }
 
 
-     a:hover{color: var(--branco)}
-    .contato:hover{transform: scale(1.2);}
-    .areadeatuacao:hover{transform: scale(1.2);}
-    .quemsomos:hover{transform: scale(1.2);}
+    nav{
+        background-color: var(--corprincipal);
+        height: 200px;
+    }
     
     .logo{
         position: absolute;
         top:1px ;
-        
-    right:1300px ;}
+        right:1300px ;}
     
-    .contato{
-        font-size:13px;
-        position: absolute;
-        top:5px;
-        right:1100px;
-        background-color:var(--corprincipal);
-        width:100px;
-        text-align: center;
-        border-radius:100px;
-        }
     
-    .quemsomos{
-        font-size:13px;
-        position: absolute;
-        top:5px;
-        right:850px;
-        background-color:var(--corprincipal);
-        width:200px;
-        text-align: center;
-        border-radius:100px;
-        }
     
-    .areadeatuacao{
-        font-size:13px;
-        position: absolute;
-        top:5px;
-        right:600px;
-        background-color:var(--corprincipal);
-        width:200px; 
-        text-align: center;} 
+        .quemsomos{
+
+            font-size:30px;
+            position: absolute;
+            top:5px;
+            right:1000px;
+            color: var(--preto);
+            font-family: var(--bastão);
+            text-shadow: 5px 5px 5px var(--branco);
+    }
+            
+            .areadeatuacao{
+            
+            font-size:30px;
+            position: absolute;
+            top:5px;
+            right:725px;
+            color: var(--preto);
+            font-family: var(--bastão);
+            text-shadow: 5px 5px 5px var(--branco);
+            }
     
 
 
-.circulowhatsapp{
+        .circulowhatsapp{
 
-width:60px;
-height:60px;
-border-radius:50%;
-background-color:var(--corsecundaria);
-position: absolute;
-top:-40px;
-right:150px ;
-margin:50px;
-}
-
-.fotowhatsapp{
-
-position: absolute;
-top:23px;
-right:214px ;
-
-
-}
-
-.circuloinstagram{
-
-    width:60px;
-    height:60px;
-    border-radius:50%;
-    background-color:var(--corsecundaria);
-    position: absolute;
-    top:-40px;
-    right:80px ;
-    margin:50px;
-
-
-}
-
-.fotoinstagram{
-    position: absolute;
-    top:25px;
-    right:145px ;}
+            width:60px;
+            height:60px;
+            border-radius:50%;
+            background-color:var(--corsecundaria);
+            position: absolute;
+            top:-40px;
+            right:200px ;
+            margin:50px;
+            }
+            
+            .fotowhatsapp{
+            
+            position: absolute;
+            top:23px;
+            right:263px ;
+            }
+            
+            
+            
+            
+            .circuloinstagram{
+            
+            width:60px;
+            height:60px;
+            border-radius:50%;
+            background-color:var(--corsecundaria);
+            position: absolute;
+            top:-40px;
+            right:120px ;
+            margin:50px;
+            }
+            
+            
+            
+            
+            .fotoinstagram{
+            
+            position: absolute;
+            top:25px;
+            right:185px ;
+            }
+            
+            .circulofacebook{
+            width: 60px;
+            height: 30px;
+            height:60px;
+            border-radius:50%;
+            background-color:var(--corsecundaria);
+            position: absolute;
+            top:-40px;
+            right:40px ;
+            margin:50px;
+            }
+            
+            .fotofacebook{
+            
+            position: absolute;
+            top:25px;
+            right:105px ;
+            }
+            
+            .circulogmail{
+            
+            width: 60px;
+            height: 30px;
+            height:60px;
+            border-radius:50%;
+            background-color:var(--corsecundaria);
+            position: absolute;
+            top:-40px;
+            right:-40px ;
+            margin:50px;
+            }
+            
+            .fotogmail{
+                position: absolute;
+                top: 25px;
+                right:25px ;
+            }
 
 
 
