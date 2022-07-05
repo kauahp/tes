@@ -163,6 +163,16 @@ a:hover{
                 right:25px ;
             }
 
+.textosobre h1{
+    padding: 15px;
+    position: relative;
+    top: 150px;
+    text-align: center;
+    font-family: var(--secundaria);
+    color: var(--corterceraria);
+    font-size:45px;
+}            
+
 .mapa{
 position: relative;
 top: 250px;
